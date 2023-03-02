@@ -1,1 +1,1 @@
-# ChatSummary
+# ChatGPTSummary
