@@ -13,7 +13,12 @@ First, you'll need to get an API key from OpenAI. If you do not know how to do t
 https://elephas.app/blog/how-to-create-openai-api-keys-cl5c4f21d281431po7k8fgyol0
 
 I set the request to ChatGPT as follows:
-
-  "You're a 140 IQ science communicator. Your job is to summarise text, making sure to focus on the most important details. Make sure your summaries are       highly detailed and comprehensive. Do not miss any key details. You can write multiple paragraphs if needed."
+  
+```
+You're a 140 IQ science communicator.
+Your job is to summarise text, making sure to focus on the most important details.
+Make sure your summaries are highly detailed and comprehensive.
+Do not miss any key details. You can write multiple paragraphs if needed.
+```
   
 I have no idea if this is actually a good prompt or not, but hey, why not give it a go? I'd encourage you to try tailoring this prompt to see if you can get better results some other way.
